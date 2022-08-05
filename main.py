@@ -3,7 +3,6 @@ import telebot
 import os
 import datetime
 import time, random
-import mail
 from bs4 import BeautifulSoup
 from auth_data import token
 
